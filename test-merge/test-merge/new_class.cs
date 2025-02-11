@@ -11,6 +11,15 @@ namespace test_merge
         public void DoSomething()
         {
             Console.WriteLine("Hello World!");
+
+
+
+
+
+
+
+
+            ///comment
         }
     }
 }
