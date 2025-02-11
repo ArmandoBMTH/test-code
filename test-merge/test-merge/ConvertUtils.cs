@@ -11,5 +11,10 @@ namespace test_merge
             //Conver object to json.
             return JsonSerializer.Serialize(obj);
         }
+
+        public static string DoNothing()
+        {
+            return "Do nothing";
+        }
     }
 }
