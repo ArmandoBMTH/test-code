@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace test_merge
 {
-    public class new_class
+    public class NewClass
     {
         public void DoSomething()
         {
